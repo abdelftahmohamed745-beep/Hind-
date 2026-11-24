@@ -1,0 +1,147 @@
+{
+ "lectures": [
+  {
+   "id": "LEC_17900000000",
+   "title": "كيف نقرأ الخط الزمني؟",
+   "branch": "تاريخ",
+   "grade": "prep1",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "٢٤/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-24T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000001",
+   "title": "مفتاح الخريطة ومقياس الرسم",
+   "branch": "خرائط",
+   "grade": "prep1",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "٢٣/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-23T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000002",
+   "title": "موقع مصر وحدودها",
+   "branch": "جغرافيا",
+   "grade": "prep1",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "٢٢/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-22T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000003",
+   "title": "مينا وتوحيد القطرين",
+   "branch": "حضارات",
+   "grade": "prep1",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "٢١/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-21T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000004",
+   "title": "الفتح الإسلامي لمصر",
+   "branch": "تاريخ",
+   "grade": "prep2",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "٢٠/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-20T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000005",
+   "title": "صلاح الدين ومعركة حطين",
+   "branch": "تاريخ",
+   "grade": "prep2",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٩/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-19T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000006",
+   "title": "عين جالوت وقيام دولة المماليك",
+   "branch": "تاريخ",
+   "grade": "prep2",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٨/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-18T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000007",
+   "title": "تضاريس قارة أفريقيا",
+   "branch": "جغرافيا",
+   "grade": "prep2",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٧/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-17T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000008",
+   "title": "محمد علي وبناء مصر الحديثة",
+   "branch": "تاريخ",
+   "grade": "prep3",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٦/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-16T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000009",
+   "title": "ثورة ١٩١٩ في دقائق",
+   "branch": "تاريخ",
+   "grade": "prep3",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٥/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-15T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000010",
+   "title": "حرب أكتوبر ١٩٧٣",
+   "branch": "تاريخ",
+   "grade": "prep3",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٤/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-14T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000011",
+   "title": "توزيع السكان وكثافتهم",
+   "branch": "جغرافيا",
+   "grade": "prep3",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٣/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-13T10:00:00.000Z",
+   "thumb": ""
+  },
+  {
+   "id": "LEC_17900000012",
+   "title": "مراجعة ليلة الامتحان",
+   "branch": "مراجعة",
+   "grade": "prep3",
+   "url": "https://youtu.be/PLACEHOLDER",
+   "note": "",
+   "date": "١٢/‏١١/‏٢٠٢٦",
+   "createdAt": "2026-11-12T10:00:00.000Z",
+   "thumb": ""
+  }
+ ]
+}

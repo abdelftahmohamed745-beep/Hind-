@@ -1,0 +1,64 @@
+{
+ "items": [
+  {
+   "id": "Q_1790000000001_GEO1",
+   "title": "اختبار على الخرائط وموقع مصر",
+   "grade": "prep1",
+   "subject": "جغرافيا",
+   "time": 15,
+   "questionsCount": 12,
+   "qn": 12,
+   "totalPoints": 12,
+   "averageGrade": 50,
+   "passingGrade": 50,
+   "isPublished": true,
+   "createdAt": "2026-11-01T10:00:00.000Z",
+   "updatedAt": "2026-11-10T10:00:00.000Z"
+  },
+  {
+   "id": "Q_1790000000002_HIS2",
+   "title": "اختبار الفتح الإسلامي والعصرين الأيوبي والمملوكي",
+   "grade": "prep2",
+   "subject": "تاريخ",
+   "time": 15,
+   "questionsCount": 10,
+   "qn": 10,
+   "totalPoints": 10,
+   "averageGrade": 50,
+   "passingGrade": 50,
+   "isPublished": true,
+   "createdAt": "2026-11-01T10:00:00.000Z",
+   "updatedAt": "2026-11-10T10:00:00.000Z"
+  },
+  {
+   "id": "Q_1790000000003_HIS3",
+   "title": "اختبار مصر الحديثة والمعاصرة",
+   "grade": "prep3",
+   "subject": "تاريخ",
+   "time": 15,
+   "questionsCount": 10,
+   "qn": 10,
+   "totalPoints": 10,
+   "averageGrade": 50,
+   "passingGrade": 50,
+   "isPublished": true,
+   "createdAt": "2026-11-01T10:00:00.000Z",
+   "updatedAt": "2026-11-10T10:00:00.000Z"
+  },
+  {
+   "id": "Q_1790000000004_DRFT",
+   "title": "اختبار جغرافيا السكان (مسودة)",
+   "grade": "prep3",
+   "subject": "جغرافيا",
+   "time": 10,
+   "questionsCount": 2,
+   "qn": 2,
+   "totalPoints": 2,
+   "averageGrade": 50,
+   "passingGrade": 50,
+   "isPublished": false,
+   "createdAt": "2026-11-01T10:00:00.000Z",
+   "updatedAt": "2026-11-10T10:00:00.000Z"
+  }
+ ]
+}

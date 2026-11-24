@@ -1,0 +1,57 @@
+{
+ "users": [
+  {
+   "id": 1,
+   "fullName": "طالبة تجريبية",
+   "phone": "01000000000",
+   "parentPhone": "01100000001",
+   "grade": "Third Preparatory",
+   "accountType": "external",
+   "salt": "3c01bccba270ca250ef8d74be5bd8607",
+   "passwordHash": "a3b889bfac85397dc048f5664a0b3a7d61aeed020b264b2d870b03e14840d6ca",
+   "enrolledCourses": [
+    "1790000000301"
+   ],
+   "createdAt": "2026-11-20T10:00:00.000Z"
+  }
+ ],
+ "sessions": {},
+ "attempts": [
+  {
+   "studentId": "web-1",
+   "studentName": "طالبة تجريبية",
+   "studentCode": "01000000000",
+   "quizId": "Q_1790000000003_HIS3",
+   "quizTitle": "اختبار مصر الحديثة والمعاصرة",
+   "grade": "prep3",
+   "status": "submitted",
+   "score": 9,
+   "totalPoints": 10,
+   "percentage": 90,
+   "passed": true,
+   "startedAt": "",
+   "submittedAt": "٢٠‏/١١‏/٢٠٢٦ ٤:٠٥:٠٠ م",
+   "submittedAtIso": "2026-11-20T14:05:00.000Z",
+   "elapsedTime": 420,
+   "answers": [
+    0,
+    1,
+    1,
+    2,
+    0,
+    0,
+    0,
+    1,
+    1,
+    1
+   ],
+   "courseId": null,
+   "lessonId": null,
+   "lessonTitle": null,
+   "accountType": "external",
+   "source": "platform"
+  }
+ ],
+ "messages": [],
+ "nextUserId": 2
+}
